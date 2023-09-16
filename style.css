@@ -127,8 +127,11 @@
     height: 440px;
     margin: 100px auto;
 }
-
+.latest-deals button {
+    filter: drop-shadow(5px 10px 10px #000000a1);
+}
 .input {
+    filter: drop-shadow(5px 10px 10px #000000a1);
     width: 400px;
     height: 50px;
     border-radius: 5px;
