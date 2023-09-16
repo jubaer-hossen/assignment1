@@ -38,15 +38,22 @@
 }
 
 /* main section */
-.our-flower-header{
+
+/* main{
+    justify-content: center;
+    align-items: center;
+} */
+.our-flower-header {
     text-align: center;
     margin-top: 100px;
 }
-.our-flower{
+
+.our-flower {
     display: flex;
     justify-content: center;
     align-items: center;
 }
+
 .our-flower img {
     width: 250px;
     height: 350px;
@@ -58,7 +65,23 @@
     background-color: rgba(5, 151, 160, 0.15);
 }
 
-.our-flower p{
+.our-flower p {
     text-align: center;
     text-decoration: underline;
+}
+
+/* services section  */
+
+.services {
+    width: 1000px;
+    height: 250px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin: 100px auto;
+    border-radius: 8px;
+    background: rgba(39, 39, 39, 0.05);
+    border: #E55473 solid;
+    text-align: center;
+
 }
