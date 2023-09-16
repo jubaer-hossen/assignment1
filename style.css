@@ -100,3 +100,15 @@
 .hot-deal div{
     margin: 0 50px;
 }
+
+/* Instagram section  */
+
+.instagram{
+    text-align: center;
+    margin-top: 70px;
+    
+}
+.instagram img{
+    width: 250px;
+    margin: 10px;
+}
