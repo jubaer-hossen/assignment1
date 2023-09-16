@@ -85,3 +85,18 @@
     text-align: center;
 
 }
+
+/* hot-deal section */
+.hot-deal {
+    display: flex;
+    border-radius: 8px;
+    background: rgba(229, 84, 115, 0.05);
+    height: 500px;
+    padding: 0 150px;
+    align-items: center;
+    justify-content: space-evenly;
+    text-align: center;
+}
+.hot-deal div{
+    margin: 0 50px;
+}
