@@ -1,0 +1,64 @@
+.banner {
+    display: flex;
+    background: rgba(229, 84, 115, 0.10);
+    height: 600px;
+    padding: 50px 100px 0 150px;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.banner img {
+    /* width: 635px; */
+    height: 600px;
+}
+
+.header-font {
+    font-size: 64px;
+    font-weight: 800;
+}
+
+.primary-font {
+    font-size: 54px;
+    font-weight: 800;
+}
+
+.banner-style {
+    /* display: flex; */
+    padding: 0 50px 0 0;
+}
+
+.btn-primary {
+    border-radius: 8px;
+    background: #E55473;
+    padding: 20px 40px;
+    border: none;
+    font-weight: bold;
+    font-size: medium;
+    color: white;
+}
+
+/* main section */
+.our-flower-header{
+    text-align: center;
+    margin-top: 100px;
+}
+.our-flower{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.our-flower img {
+    width: 300px;
+    height: 400px;
+    padding: 50px 30px 0 30px;
+    /* padding-bottom: 0; */
+    margin: 10px;
+    border-radius: 300px 300px 0px 0px;
+    /* background: rgba(167, 33, 98, 0.15), rgba(5, 151, 160, 0.15), rgba(71, 125, 17, 0.15); */
+    background-color: rgba(5, 151, 160, 0.15);
+}
+
+.our-flower p{
+    text-align: center;
+    text-decoration: underline;
+}
