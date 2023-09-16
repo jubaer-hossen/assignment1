@@ -36,9 +36,11 @@
     font-size: medium;
     color: white;
 }
-.text-color{
+
+.text-color {
     color: #E55473;
 }
+
 /* main section */
 
 /* main{
@@ -142,6 +144,34 @@
     border: none;
     padding: 0 20px;
 }
+
+/* contact section */
+.contact {
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    /* border: #E55473 solid; */
+    margin: 50px 0;
+}
+.contact div {
+    /* border: black solid; */
+    width: 40%;
+    margin: 0 30px;
+}
+
+form input {
+    display: block;
+    width: 400px;
+    height: 40px;
+    margin: 10px auto;
+    padding: 0px 10px;
+}
+form textarea{
+    
+    padding:10px 0px 0 10px;
+}
+
 /* footer section  */
 footer {
     text-align: center;
@@ -156,14 +186,16 @@ footer {
 
 }
 
-footer h1{
+footer h1 {
     color: white;
     font-size: 48px;
     font-weight: 800;
 }
-footer p{
+
+footer p {
     width: 500px;
 }
-footer span{
+
+footer span {
     color: rgba(255, 255, 255, 0.582);
 }
