@@ -36,7 +36,9 @@
     font-size: medium;
     color: white;
 }
-
+.text-color{
+    color: #E55473;
+}
 /* main section */
 
 /* main{
@@ -155,7 +157,7 @@ footer {
 }
 
 footer h1{
-    color: #E55473;
+    color: white;
     font-size: 48px;
     font-weight: 800;
 }
